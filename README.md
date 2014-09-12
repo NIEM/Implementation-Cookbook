@@ -6,7 +6,7 @@ A catalog of commonly used ways to implement NIEM. Find what you need. Share wha
 
 What's this all about?
 
-Well, when you’re creating an information exchange, you never use NIEM by itself. There might need to be access controls, policy automation, and other things related to systems implementation—depending on the business requirements of an exchange.
+Well, when you’re creating an information exchange, you rarely ever use NIEM by itself. Depending on business requirements, there are other aspects of information exchange implementations that are required, including access controls, policy automation, transmission protocol, and others.
 
 Based on our NIEM implementation experience, we’ve identified some common patterns (or “recipes,” so to speak) to implement NIEM with other pieces of the information exchange puzzle.
 
