@@ -3,6 +3,7 @@ Implementation-Cookbook
 
 A catalog of commonly used ways to implement NIEM. Find what you need. Share what you can.
 
+[The Implementation Cookbook is provided as a GitHub wiki at https://github.com/NIEM/Implementation-Cookbook/wiki](https://github.com/NIEM/Implementation-Cookbook/wiki)
 
 What's this all about?
 
